@@ -6,3 +6,5 @@ Git tracks changes.
 Hello GitHub
 Creating a new branch is quick & simple.
 merge
+Git is free
+Git is open source
